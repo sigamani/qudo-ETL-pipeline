@@ -1,0 +1,1 @@
+docker push europe-west2-docker.pkg.dev/clustered-cream/ak-dagster/poc:latest

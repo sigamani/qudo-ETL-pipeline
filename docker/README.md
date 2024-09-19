@@ -1,0 +1,1 @@
+You need a `.env` file in this folder containing the environment variables for `run.sh`
